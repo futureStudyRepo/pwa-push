@@ -1,4 +1,4 @@
-﻿# PWA Push Demo
+﻿# PWA Push
 
 관리자가 메시지를 보내면 푸시를 구독한 브라우저에 알림이 도착하는 아주 작은 PWA Push 예제입니다.
 
@@ -16,7 +16,7 @@
 ## 폴더 구조
 
 ```text
-pwa-push-demo/
+pwa-push/
   app/
     main.py
     push_store.py
